@@ -51,7 +51,7 @@ Depositing random amounts into the accounts:
 1000.0 deposited into account number 19857. New Balance: 91000.0
 3000.0 deposited into account number 53778. New Balance: 193000.955
 ...
-Installation
+### Installation
 1. Clone this repository:
 git clone https://github.com/yourusername/BankAccount-iOS.git
 2. Open the project in Xcode or any Swift-compatible IDE.
