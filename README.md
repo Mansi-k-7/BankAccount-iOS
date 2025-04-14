@@ -34,12 +34,13 @@ The `BankAccount` class defines a basic structure for handling bank accounts. Ea
 
 ### Example:
 
-swift
+```swift
 var Acc1 = BankAccount(accNum: 19857, name: "Rachel", balanceAmt: 90000)
 var Acc2 = BankAccount(accNum: 53778, name: "Ross", balanceAmt: 190000.955)
 var Acc3 = BankAccount(accNum: 98674, name: "Joey", balanceAmt: 609998)
 var Acc4 = BankAccount(accNum: 46389, name: "Monica", balanceAmt: 734647.97)
 var Acc5 = BankAccount(accNum: 28388, name: "Chandler", balanceAmt: 44446.76)
+
 Example Output:
 Account Number: 19857, Name: Rachel, Balance: 90000.0
 Account Number: 53778, Name: Ross, Balance: 190000.955
@@ -50,7 +51,7 @@ Account Number: 28388, Name: Chandler, Balance: 44446.76
 Depositing random amounts into the accounts:
 1000.0 deposited into account number 19857. New Balance: 91000.0
 3000.0 deposited into account number 53778. New Balance: 193000.955
-...
+
 ### Installation
 1. Clone this repository:
 git clone https://github.com/yourusername/BankAccount-iOS.git
